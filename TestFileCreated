@@ -1,3 +1,4 @@
+add
 echo "# Test-repository-Chi2" >> README.md
 git init
 git add README.md
